@@ -6,5 +6,7 @@ based on the chemical composition of its sample.
 Here, we have, 
 
 1.Visualised the data and observed which parameters affect the quality to a larger extent.
+
 2.Fed the test and train data to the system.
+
 3.Predict quality using machine learning algorithms.In this case, we have used Linear Regression.
